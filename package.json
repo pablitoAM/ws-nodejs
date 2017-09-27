@@ -9,6 +9,7 @@
   "author": "pablitoAM",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.5"
+    "express": "^4.15.5",
+    "express-ws": "^3.0.0"
   }
 }
